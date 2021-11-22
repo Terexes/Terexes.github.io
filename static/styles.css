@@ -1,0 +1,38 @@
+* {
+  font-family: "Montserrat", "Verdana", "Arial", sans-serif;
+}
+body {
+  background-color: #24201e;
+}
+h1,
+h2 {
+  color: #fff;
+  font-size: 40px;
+}
+p {
+  color: #fff;
+  font-size: 16px;
+}
+
+li {
+  color: #fff;
+  font-size: 16px;
+}
+
+a:link,
+a:visited {
+  color: #fff;
+  font-size: 16px;
+}
+
+a:hover {
+  color: #ab4215;
+}
+
+.topo {
+  float: right;
+}
+
+.nome {
+  font-size: 25px;
+}
